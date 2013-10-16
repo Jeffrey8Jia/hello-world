@@ -1,2 +1,2 @@
-hello-world
+ Jeffrey's hello-world repository
 ===========
